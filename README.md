@@ -26,5 +26,5 @@ A Flask-based web application that:
 
 1. **Clone the repository**
    ```bash
-   git clone(https://github.com/Omarrhussain/Word_Frequency_Analyzer_App/edit/main)
+   git clone https://github.com/Omarrhussain/Word_Frequency_Analyzer_App/tree/main
    cd word_frequency_app
