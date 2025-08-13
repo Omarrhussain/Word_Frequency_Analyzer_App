@@ -31,9 +31,10 @@ A Flask-based web application that:
 
 ## Screenshots
 
-### Home Page
-![Simple Analyzer Page](images/screenshot1.png)
+### Simple Analyzer Page
+![Simple Analyzer Page](https://github.com/Omarrhussain/Word_Frequency_Analyzer_App/blob/main/Word_Frequency_Analyzer/images/screenshot1.png)
 
-### Results Page
-![NLTK Analyzer Page](images/screenshot2.png)
+### NLTK Analyzer
+Page
+![NLTK Analyzer Page](https://github.com/Omarrhussain/Word_Frequency_Analyzer_App/blob/main/Word_Frequency_Analyzer/images/screenshot2.png)
 
