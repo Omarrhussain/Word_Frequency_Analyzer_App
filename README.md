@@ -28,3 +28,12 @@ A Flask-based web application that:
    ```bash
    git clone https://github.com/Omarrhussain/Word_Frequency_Analyzer_App/tree/main
    cd word_frequency_app
+
+## Screenshots
+
+### Home Page
+![Home Page](images/screenshot1.png)
+
+### Results Page
+![Results Page](images/screenshot2.png)
+
