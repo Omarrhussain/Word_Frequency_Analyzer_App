@@ -32,8 +32,8 @@ A Flask-based web application that:
 ## Screenshots
 
 ### Home Page
-![Home Page](images/screenshot1.png)
+![Simple Analyzer Page](images/screenshot1.png)
 
 ### Results Page
-![Results Page](images/screenshot2.png)
+![NLTK Analyzer Page](images/screenshot2.png)
 
