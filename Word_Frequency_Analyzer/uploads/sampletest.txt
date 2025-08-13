@@ -1,0 +1,5 @@
+Hello world!  
+This is a test file.  
+The word Python appears several times here: Python, python, and PYTHON.  
+Hello again, world!  
+This file is just for testing the Word Frequency Analyzer.
