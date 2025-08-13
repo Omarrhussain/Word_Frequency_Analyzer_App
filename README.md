@@ -20,7 +20,7 @@ A Flask-based web application that:
 ## 🛠 Tech Stack
 - **Language:** Python 3.10
 - **Framework:** Flask
-- **Libraries:** matplotlib, collections, regex, pytest
+- **Libraries:** matplotlib, collections, nltk, regex, pytest
 
 ## 📦 Installation & Running
 
